@@ -41,10 +41,3 @@ All output visualizations are saved in the `screenshot/` folder.
 
 ---
 
-## 📁 How to Use
-
-Open the `titanic_eda.ipynb` file in Google Colab or Jupyter Notebook to explore the code.
-
----
-
-Thanks for checking it out! 😊
